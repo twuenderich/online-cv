@@ -6,7 +6,7 @@ baseurl: '/online-cv' #change it according to your repository name
 
 # Enable one of these styles by removing #. Style will be applied only after restarting the build or serve.
 #style: styles-2
-#style: styles-3
+style: styles-3
 #style: styles-4
 #style: styles-5
 #style: styles-6
@@ -18,7 +18,7 @@ tagline: SysAdmin & DevOps
 pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
 #sidebar links
-email: tobias.wuenderich@web.de
+email: tobias.wuenderich@realcore.de
 phone: 00
 website: wuenderich.de #do not add http://
 linkedin: twuenderich
